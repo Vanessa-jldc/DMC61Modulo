@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.title("Especializacion Python for analytics")
+st.title("Especialización Python for analytics")
+st.sidebar.title("Parámetros")

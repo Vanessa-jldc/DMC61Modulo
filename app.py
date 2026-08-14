@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.image("Python_logo.png")
 
 st.title("Especialización Python for analytics")
 st.sidebar.title("Parámetros")

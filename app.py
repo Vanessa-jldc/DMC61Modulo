@@ -25,7 +25,7 @@ elif modulos == "Módulo Arreglos":
   
   st.write("Bienvenido al módulo de Arreglos")
 
-cantidad_elementos = st.slider("Selecione la cantidad de elementos de su arreglo", 1,100)
+  cantidad_elementos = st.slider("Selecione la cantidad de elementos de su arreglo", 1,100)
 
   cantidad_arreglo= np.arange(cantidad_elementos)
 
